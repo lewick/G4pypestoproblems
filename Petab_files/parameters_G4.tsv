@@ -1,0 +1,15 @@
+parameterId	parameterName	parameterScale	lowerBound	upperBound	nominalValue	estimate
+DNA_k2	DNA_k2	log10	1E-10	1E+3	0.6	1
+DNA_k1	DNA_k1	log10	1	1E+10	9e+6	1
+DNA_k0	DNA_k0	log10	1E-10	1E+3	0.492	1
+RNA_k2	RNA_k2	log10	1E-10	1E+3	0.3	1
+RNA_k1	RNA_k1	log10	1	1E+10	9e+6	1
+RNA_k0	RNA_k0	log10	1E-10	1E+3	0.492	1
+tr	s	log10	1E-10	1E+3	5E-4	1
+tr_G	s_G	log10	1E-10	1E+3	1E-6	1
+d	d	log10	1E-10	1E+3	5E-4	1
+d_G	d_G	log10	1E-10	1E+3	1E-3	1
+sd_RNA	\sigma_{RNA}	log10	1E-10	1E+3	1E-5	1
+sd_RNA_G	\sigma_{RNA_G}	log10	1E-10	1E+3	1E-5	1
+s_RNA	s_RNA	log10	1E-5	1E+3	20	1
+s_RNA_G	s_RNA_G	log10	1E-5	1E+3	1	1

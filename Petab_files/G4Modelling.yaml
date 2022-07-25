@@ -1,0 +1,11 @@
+format_version: 1
+parameter_file: parameters_G4.tsv
+problems:
+  - condition_files:
+    - experimentalConditions_G4.tsv
+    measurement_files:
+    - measurementData_G4.tsv
+    observable_files:
+    - observables_G4.tsv
+    sbml_files:
+    - G4Conversionmodel_global.xml

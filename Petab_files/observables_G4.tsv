@@ -1,0 +1,3 @@
+observableId	observableFormula	noiseFormula
+observable_RNA	observableParameter1_observable_RNA * (RNA+RNA_G)	noiseParameter1_observable_RNA
+observable_RNA_G	observableParameter1_observable_RNA_G* RNA_G	noiseParameter1_observable_RNA_G

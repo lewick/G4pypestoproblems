@@ -1,0 +1,4 @@
+conditionId	conditionName	Activator
+ctrl	WT_ctrl	0.0
+cPDS_low	cPDS treatment 1 µM	1e-06
+cPDS_high	cPDS treatment 5 µM	5e-06
